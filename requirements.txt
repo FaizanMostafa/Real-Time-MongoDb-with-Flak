@@ -1,0 +1,9 @@
+flask
+flask-restful
+flask_login
+pymongo
+bcrypt
+flask-cors
+pyresparser
+flask-socketio
+eventlet
